@@ -28,3 +28,4 @@
 ## Observaciones
 - Odoo y  PostgreSQL estan alineados en los tres entornos (misma version)
 - Hop tambien esta alineado por el tag de la imagen (`2.17.0`). 
+
