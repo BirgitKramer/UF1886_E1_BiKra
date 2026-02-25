@@ -5,7 +5,7 @@
     "summary": "Anade referencia interno y codigo de barras al reporte de pedidos",
     "depends": ["sale"],
     "data": [
-        #"views/sale_report_xml"
+        "views/sale_report_xml"
     ],
     "installable": True,
     "application": False,
