@@ -9,6 +9,6 @@
     ],
     "installable": True,
     "application": False,
-    "license": "LGP-3"
+    "license": "LGPL-3"
 }
    
