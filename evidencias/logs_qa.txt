@@ -1,0 +1,100 @@
+2026-02-26 11:58:52,792 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 11:58:52] "POST /web/dataset/call_kw/sale.order/web_search_read HTTP/1.1" 200 - 11 0.014 0.012
+2026-02-26 11:59:45,562 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 11:59:45] "POST /web/action/load HTTP/1.1" 200 - 12 0.013 0.011
+2026-02-26 11:59:45,608 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 11:59:45] "POST /web/dataset/call_kw/product.template/web_search_read HTTP/1.1" 200 - 18 0.009 0.014
+2026-02-26 11:59:49,250 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 11:59:49] "POST /web/dataset/call_kw/product.template/web_read HTTP/1.1" 200 - 52 0.025 0.035
+2026-02-26 11:59:49,340 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 11:59:49] "POST /mail/thread/data HTTP/1.1" 200 - 18 0.028 0.022
+2026-02-26 11:59:49,344 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 11:59:49] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.004 0.013
+2026-02-26 12:00:07,048 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:00:07] "POST /web/dataset/call_kw/product.template/web_search_read HTTP/1.1" 200 - 18 0.019 0.020
+2026-02-26 12:00:08,845 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:00:08] "POST /web/dataset/call_kw/product.template/web_read HTTP/1.1" 200 - 52 0.059 0.044
+2026-02-26 12:00:08,918 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:00:08] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.008 0.013
+2026-02-26 12:00:08,929 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:00:08] "POST /mail/thread/data HTTP/1.1" 200 - 18 0.032 0.021
+2026-02-26 12:00:16,199 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:00:16] "POST /web/dataset/call_kw/product.template/onchange HTTP/1.1" 200 - 48 0.026 0.034
+2026-02-26 12:00:35,888 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:00:35] "POST /web/dataset/call_kw/product.template/onchange HTTP/1.1" 200 - 48 0.041 0.036
+2026-02-26 12:00:35,992 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:00:35] "POST /web/dataset/call_kw/account.tax/name_search HTTP/1.1" 200 - 4 0.005 0.008
+2026-02-26 12:01:00,062 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:00] "POST /web/dataset/call_kw/product.template/web_save HTTP/1.1" 200 - 59 0.080 0.071
+2026-02-26 12:01:00,123 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:00] "POST /mail/thread/messages HTTP/1.1" 200 - 19 0.031 0.021
+2026-02-26 12:01:00,132 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:00] "POST /mail/thread/data HTTP/1.1" 200 - 18 0.032 0.024
+2026-02-26 12:01:18,815 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:18] "POST /web/dataset/call_kw/product.template/onchange HTTP/1.1" 200 - 48 0.038 0.037
+2026-02-26 12:01:22,397 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:22] "POST /web/dataset/call_kw/product.template/web_save HTTP/1.1" 200 - 9 0.009 0.016
+2026-02-26 12:01:22,430 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:22] "POST /web/dataset/call_kw/product.template/web_search_read HTTP/1.1" 200 - 3 0.005 0.007
+2026-02-26 12:01:22,488 1 INFO ? werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:22] "GET /web/static/img/smiling_face.svg HTTP/1.1" 200 - 0 0.000 0.003
+2026-02-26 12:01:26,609 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:26] "POST /web/dataset/call_kw/sale.order/web_search_read HTTP/1.1" 200 - 11 0.010 0.012
+2026-02-26 12:01:32,674 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:32] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 47 0.038 0.034
+2026-02-26 12:01:32,764 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:32] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.010 0.012
+2026-02-26 12:01:32,787 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:01:32] "POST /mail/thread/data HTTP/1.1" 200 - 22 0.036 0.027
+2026-02-26 12:02:25,054 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:25] "POST /web/action/load HTTP/1.1" 200 - 8 0.008 0.009
+2026-02-26 12:02:25,076 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:25] "POST /report/check_wkhtmltopdf HTTP/1.1" 200 - 1 0.002 0.004
+2026-02-26 12:02:25,088 1 INFO ? werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:25] "GET /web/static/img/spin.svg HTTP/1.1" 200 - 0 0.000 0.002
+2026-02-26 12:02:25,727 1 INFO odoo_qa werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:25] "GET /web/assets/4ff8b28/web.report_assets_common.min.css HTTP/1.1" 200 - 3 0.008 0.011
+2026-02-26 12:02:25,746 1 INFO odoo_qa odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/c37d51a/web.report_assets_pdf.min.css (id:501) 
+2026-02-26 12:02:25,757 1 INFO odoo_qa werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:25] "GET /web/assets/c37d51a/web.report_assets_pdf.min.css HTTP/1.1" 200 - 8 0.019 0.027
+2026-02-26 12:02:25,777 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:25] "GET /web/static/fonts/lato/Lato-Reg-webfont.woff HTTP/1.1" 200 - 0 0.000 0.001
+2026-02-26 12:02:25,794 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:25] "GET /web/static/fonts/lato/Lato-Lig-webfont.woff HTTP/1.1" 200 - 0 0.000 0.008
+2026-02-26 12:02:25,798 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:25] "GET /web/static/fonts/lato/Lato-Hai-webfont.woff HTTP/1.1" 200 - 0 0.000 0.003
+2026-02-26 12:02:25,809 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:25] "GET /web/static/fonts/lato/Lato-Bol-webfont.woff HTTP/1.1" 200 - 0 0.000 0.011
+2026-02-26 12:02:25,816 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:25] "GET /web/static/fonts/lato/Lato-Bla-webfont.woff HTTP/1.1" 200 - 0 0.000 0.002
+2026-02-26 12:02:27,995 1 INFO odoo_qa odoo.addons.base.models.ir_actions_report: The PDF report has been generated for model: sale.order, records [1]. 
+2026-02-26 12:02:28,008 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:28] "POST /report/download HTTP/1.1" 200 - 109 0.171 2.743
+2026-02-26 12:02:28,054 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:28] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.009 0.009
+2026-02-26 12:02:28,201 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:28] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 47 0.096 0.066
+2026-02-26 12:02:28,264 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:28] "POST /mail/thread/data HTTP/1.1" 200 - 22 0.020 0.026
+2026-02-26 12:02:50,310 1 INFO odoo_qa werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:50] "GET /web/assets/c37d51a/web.report_assets_pdf.min.css HTTP/1.1" 200 - 3 0.012 0.019
+2026-02-26 12:02:50,311 1 INFO odoo_qa werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:50] "GET /web/assets/4ff8b28/web.report_assets_common.min.css HTTP/1.1" 200 - 3 0.010 0.018
+2026-02-26 12:02:50,367 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:50] "GET /web/static/fonts/lato/Lato-Reg-webfont.woff HTTP/1.1" 200 - 0 0.000 0.002
+2026-02-26 12:02:50,389 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:50] "GET /web/static/fonts/lato/Lato-Lig-webfont.woff HTTP/1.1" 200 - 0 0.000 0.011
+2026-02-26 12:02:50,390 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:50] "GET /web/static/fonts/lato/Lato-Bol-webfont.woff HTTP/1.1" 200 - 0 0.000 0.011
+2026-02-26 12:02:50,395 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:50] "GET /web/static/fonts/lato/Lato-Hai-webfont.woff HTTP/1.1" 200 - 0 0.000 0.012
+2026-02-26 12:02:50,406 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:02:50] "GET /web/static/fonts/lato/Lato-Bla-webfont.woff HTTP/1.1" 200 - 0 0.000 0.012
+2026-02-26 12:02:52,551 1 INFO odoo_qa odoo.addons.base.models.ir_actions_report: The PDF report has been generated for model: sale.order, records [1]. 
+2026-02-26 12:02:52,559 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:52] "POST /report/download HTTP/1.1" 200 - 43 0.029 2.371
+2026-02-26 12:02:52,607 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:52] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.012 0.013
+2026-02-26 12:02:52,717 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:52] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 47 0.069 0.064
+2026-02-26 12:02:52,773 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:02:52] "POST /mail/thread/data HTTP/1.1" 200 - 22 0.026 0.019
+2026-02-26 12:03:11,760 1 INFO odoo_qa werkzeug: 172.21.0.1 - - [26/Feb/2026 12:03:11] "GET /web/assets/c37d51a/web.report_assets_pdf.min.css HTTP/1.1" 200 - 3 0.012 0.019
+2026-02-26 12:03:11,767 1 INFO odoo_qa werkzeug: 172.21.0.1 - - [26/Feb/2026 12:03:11] "GET /web/assets/4ff8b28/web.report_assets_common.min.css HTTP/1.1" 200 - 3 0.008 0.025
+2026-02-26 12:03:11,821 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:03:11] "GET /web/static/fonts/lato/Lato-Reg-webfont.woff HTTP/1.1" 200 - 0 0.000 0.004
+2026-02-26 12:03:11,829 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:03:11] "GET /web/static/fonts/lato/Lato-Lig-webfont.woff HTTP/1.1" 200 - 0 0.000 0.002
+2026-02-26 12:03:11,838 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:03:11] "GET /web/static/fonts/lato/Lato-Bol-webfont.woff HTTP/1.1" 200 - 0 0.000 0.006
+2026-02-26 12:03:11,850 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:03:11] "GET /web/static/fonts/lato/Lato-Hai-webfont.woff HTTP/1.1" 200 - 0 0.000 0.004
+2026-02-26 12:03:11,856 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:03:11] "GET /web/static/fonts/lato/Lato-Bla-webfont.woff HTTP/1.1" 200 - 0 0.000 0.015
+2026-02-26 12:03:14,140 1 INFO odoo_qa odoo.addons.base.models.ir_actions_report: The PDF report has been generated for model: sale.order, records [1]. 
+2026-02-26 12:03:14,143 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:03:14] "POST /report/download HTTP/1.1" 200 - 43 0.081 2.526
+2026-02-26 12:03:14,176 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:03:14] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.007 0.010
+2026-02-26 12:03:14,222 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:03:14] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 47 0.026 0.036
+2026-02-26 12:03:14,321 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:03:14] "POST /mail/thread/data HTTP/1.1" 200 - 22 0.025 0.028
+2026-02-26 12:10:16,819 1 INFO odoo_qa werkzeug: 172.21.0.1 - - [26/Feb/2026 12:10:16] "GET /web/assets/4ff8b28/web.report_assets_common.min.css HTTP/1.1" 200 - 3 0.009 0.019
+2026-02-26 12:10:16,823 1 INFO odoo_qa werkzeug: 172.21.0.1 - - [26/Feb/2026 12:10:16] "GET /web/assets/c37d51a/web.report_assets_pdf.min.css HTTP/1.1" 200 - 3 0.007 0.019
+2026-02-26 12:10:16,873 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:10:16] "GET /web/static/fonts/lato/Lato-Reg-webfont.woff HTTP/1.1" 200 - 0 0.000 0.001
+2026-02-26 12:10:16,882 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:10:16] "GET /web/static/fonts/lato/Lato-Bla-webfont.woff HTTP/1.1" 200 - 0 0.000 0.009
+2026-02-26 12:10:16,889 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:10:16] "GET /web/static/fonts/lato/Lato-Bol-webfont.woff HTTP/1.1" 200 - 0 0.000 0.013
+2026-02-26 12:10:16,896 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:10:16] "GET /web/static/fonts/lato/Lato-Hai-webfont.woff HTTP/1.1" 200 - 0 0.000 0.005
+2026-02-26 12:10:16,899 1 INFO ? werkzeug: 172.21.0.1 - - [26/Feb/2026 12:10:16] "GET /web/static/fonts/lato/Lato-Lig-webfont.woff HTTP/1.1" 200 - 0 0.000 0.007
+2026-02-26 12:10:19,033 1 INFO odoo_qa odoo.addons.base.models.ir_actions_report: The PDF report has been generated for model: sale.order, records [1]. 
+2026-02-26 12:10:19,037 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:10:19] "POST /report/download HTTP/1.1" 200 - 43 0.087 2.360
+2026-02-26 12:10:19,073 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:10:19] "POST /mail/thread/messages HTTP/1.1" 200 - 3 0.007 0.014
+2026-02-26 12:10:19,229 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:10:19] "POST /web/dataset/call_kw/sale.order/web_read HTTP/1.1" 200 - 47 0.095 0.079
+2026-02-26 12:10:19,297 1 INFO odoo_qa werkzeug: 192.168.1.75 - - [26/Feb/2026 12:10:19] "POST /mail/thread/data HTTP/1.1" 200 - 22 0.025 0.027
+2026-02-26 12:40:12,132 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) starting 
+2026-02-26 12:40:12,144 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) done in 0.011s 
+2026-02-26 12:40:12,148 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) processed 0 records, 0 records remaining 
+2026-02-26 12:40:12,152 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Notification: Notify scheduled messages' (8) completed 
+2026-02-26 12:40:12,162 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) starting 
+2026-02-26 12:40:12,169 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) done in 0.007s 
+2026-02-26 12:40:12,175 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) processed 0 records, 0 records remaining 
+2026-02-26 12:40:12,179 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Mail: Email Queue Manager' (3) completed 
+2026-02-26 12:41:14,318 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) starting 
+2026-02-26 12:41:14,332 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) done in 0.013s 
+2026-02-26 12:41:14,337 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) processed 0 records, 0 records remaining 
+2026-02-26 12:41:14,343 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'SMS: SMS Queue Manager' (14) completed 
+2026-02-26 12:41:14,356 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) starting 
+2026-02-26 12:41:14,362 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) done in 0.005s 
+2026-02-26 12:41:14,366 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) processed 0 records, 0 records remaining 
+2026-02-26 12:41:14,371 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Snailmail: process letters queue' (15) completed 
+2026-02-26 12:41:14,383 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) starting 
+2026-02-26 12:41:14,640 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) done in 0.256s 
+2026-02-26 12:41:14,646 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) processed 0 records, 0 records remaining 
+2026-02-26 12:41:14,650 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Digest Emails' (16) completed 
+2026-02-26 12:41:14,665 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) starting 
+2026-02-26 12:41:14,670 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) done in 0.006s 
+2026-02-26 12:41:14,676 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) processed 0 records, 0 records remaining 
+2026-02-26 12:41:14,680 1 INFO odoo_qa odoo.addons.base.models.ir_cron: Job 'Partner Autocomplete: Sync with remote DB' (13) completed 
