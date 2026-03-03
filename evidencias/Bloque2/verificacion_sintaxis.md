@@ -79,5 +79,3 @@ __Resultado:__
 - Interpretación:
   - 0 -> XML bien formado
   - Error -> indicar mensaje exacto
-
-
